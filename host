@@ -1,5 +1,3 @@
-127.0.0.1 localhost
-
 # Blokir pelacakan Google
 127.0.0.1 safetynet.googleapis.com
 127.0.0.1 playintegrity.googleapis.com
