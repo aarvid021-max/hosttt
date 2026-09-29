@@ -1,13 +1,76 @@
-# Blokir pelacakan Google
-127.0.0.1 safetynet.googleapis.com
-127.0.0.1 playintegrity.googleapis.com
-127.0.0.1 connectivitycheck.gstatic.com
+# ==============================================
+# ANTI-HACK / ANTI-CHEAT FREE FIRE — HOSTS LIST
+# Sumber: Berbagai sumber + pembaruan 29 Sep 2026
+# Format: 127.0.0.1 domain → dialihkan ke lokal = tidak bisa diakses
+# ==============================================
+
+# Standar
+127.0.0.1 localhost
+
+# ==============================================
+# SITUS UNDUHAN CHEAT / MOD / PANEL
+# ==============================================
+127.0.0.1 ffh4x.com
+127.0.0.1 ffh4x.app
+127.0.0.1 ffhack.com
+127.0.0.1 ffhack.net
+127.0.0.1 freefirehack.com
+127.0.0.1 freefiremod.com
+127.0.0.1 ffmod.com
+127.0.0.1 ffmods.com
+127.0.0.1 h4x.com
+127.0.0.1 h4x.gg
+127.0.0.1 aimbotff.com
+127.0.0.1 espff.com
+127.0.0.1 ffunlock.com
+127.0.0.1 ffunlock.net
+127.0.0.1 fftool.com
+127.0.0.1 ffpanel.com
+127.0.0.1 ff-painel.com
+127.0.0.1 painelff.com
+127.0.0.1 hackff.com
+127.0.0.1 cheatff.com
+127.0.0.1 modff.com
+127.0.0.1 regeditff.com
+127.0.0.1 regedit-freefire.com
+127.0.0.1 macroff.com
+127.0.0.1 droneviewff.com
+127.0.0.1 nograssff.com
+127.0.0.1 nofogff.com
+127.0.0.1 ffscript.com
+127.0.0.1 ffconfig.com
+127.0.0.1 ffbypass.com
+127.0.0.1 ffadvance.com
+127.0.0.1 freefireadvance.net
+127.0.0.1 freefire-name.com
+
+# ==============================================
+# SERVER / DOMAIN TIDAK RESMI — MODIFIKASI
+# ==============================================
 127.0.0.1 gin.freefiremobile.com
-127.0.0.1 br.gin.freefiremobile.com
-127.0.0.1 com.dts.freefiremax
-127.0.0.1 com.game.core
-127.0.0.1 dl.bs.freefiremobile.com
-127.0.0.1 gin.core.secure
-127.0.0.1 gin.freefire.core
-127.0.0.1 gin.freefireind.in
-127.0.0.1 gin.freefiremax.core
+127.0.0.1 config.freefiremobile.com
+127.0.0.1 patch.freefiremobile.com
+127.0.0.1 update.ff-gaming.com
+127.0.0.1 update.ff-mod.com
+127.0.0.1 cdn.ffhack.com
+127.0.0.1 api.ffpanel.com
+
+# ==============================================
+# SERVER RESMI FF — JANGAN DIBLOKIR!
+# (Tetap dibiarkan terbuka)
+# freefiremobile.com
+# ff.garena.com
+# connect.garena.com
+# ==============================================
+
+# ==============================================
+# IP SERVER CHEAT YANG DIKETAHUI
+# ==============================================
+127.0.0.1 104.21.11.35
+127.0.0.1 172.67.165.29
+127.0.0.1 104.21.20.31
+127.0.0.1 172.67.191.71
+
+# ==============================================
+# AKHIR FILE
+# ==============================================
